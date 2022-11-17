@@ -1,0 +1,204 @@
+@charset "UTF-8";
+#inicio{
+    background-image: url('./img/planoDeFundo.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 2000px;
+    font: 25px Arial,helvetica, Sans-serif;
+}
+#cadastro{
+    background-image: url('./img/cadastro.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 2000px;
+    font: 25px Arial,helvetica,Sans-serif;
+}
+#servico{
+    background-image: url('./img/servico.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 2000px;
+    font: 25px Arial,helvetica,Sans-serif;
+
+}
+#produtos{
+    background-image: url('./img/produtos.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 2000px;
+    font: 25px Arial,helvetica,Sans-serif;
+}
+#fala{
+    background-image: url('./img/fala.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 2000px;
+    font: 25px Arial,helvetica,Sans-serif;
+}
+#menuNav{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    width: 70%;
+}
+#navUlLi{
+    display:inline;
+    padding: 10px 15px 10px;
+    border: 3px;
+    background-image: linear-gradient(to bottom,aqua,yellow);
+
+
+}
+nav ul li :hover{
+    text-align: center;
+    background-color: darkcyan;
+
+}
+#casa{
+    margin: 50px 55px 50px;
+    padding: 40px 45px 40px;
+    border: solid rgb(18, 120, 136) 2px;
+    background-image: url('./img/casinha.png');
+    width: 200px;
+    float: unset;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: none;
+    
+}
+#ossinho{
+    margin: 50px 55px 50px;
+    padding: 40px 45px 40px;
+    border: solid rgb(18, 120, 136) 2px;
+    background-image: url('./img/ossinho.png');
+    width: 200px;
+    float: unset;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: none;
+}
+
+
+#menu{
+    margin: 50px;
+    padding: 40px;
+    border: solid rgb(18, 120, 136) 2px;
+    background-image: url('./img/filhote.png');
+    width: 300px;
+    float: inline-start;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: none;
+    
+}
+#bull{
+    margin: 50px;
+    padding: 40px;
+    border: solid rgb(18, 120, 136) 2px;
+    background-image: url('./img/bull.png');
+    width: 300px;
+    float: inline-start;
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: none;
+    
+    
+}
+#gato {
+margin: 50px;
+padding: 40px;
+border: solid rgb(18, 120, 136) 2px;
+background-image: url('./img/gato.png');
+width: 300px;
+float: unset;
+font-family: cursive;
+color: black;
+text-decoration: none;
+
+}
+#form{
+    width: 30%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-size-adjust: 100%;
+}
+#input{
+    font-size: 20px;
+}
+#select{
+    font-size: 20px;
+}
+#table{
+    border: 5px;
+    background-image: linear-gradient(to bottom,aqua,yellow);
+    width: 60%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#thead{
+    border: 5px solid;
+    font-size: 40px;
+
+}
+#tbody{
+    font-size: 40px;
+    border: 5px solid;
+}
+#produtoNav{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    width: 20%;
+
+}
+#produtoNavUlLi{
+    padding: 3px ;
+    border: 1px solid black;
+    background-color:antiquewhite;
+    
+}
+#li{
+    padding: 5px;
+    border: 1px solid black;
+    background-color: green;
+    text-align: center;
+
+}
+#formComentario{
+    width: 200px;
+}
+#navFala{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    width: 60%;
+
+}
+#falaUlLi{
+    padding: 5px 10px 5px ;
+    border: 1px solid black;
+    background-color:beige;
+
+}
+#noticia{
+    background-image: linear-gradient(to bottom aqua,black);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    
+}
+#h1Doacao{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 50px
+}
+#h1Bull{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    font-size: 50px
+}
+#h1Gato{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:gray;
+    font-size: 50px
+}
+
